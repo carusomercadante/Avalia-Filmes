@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Amiko"
+}
+
+body {
+  background-color: #575757;
+  color: azure;
+  padding: 20px;
+
+}
